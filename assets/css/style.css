@@ -32,6 +32,7 @@ body {
 .container {
   max-width: 1440px;
   margin: 0px auto;
+  background-color: red;
 }
 h1 {
   font-size: 6.4rem;
